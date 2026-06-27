@@ -31,6 +31,7 @@
 
 - El contrato puede descargarse en formato PDF.
 - Si no existe contrato, se informa al usuario.
+- Si el contrato no está disponible, el sistema muestra un mensaje informativo al usuario.
 
 ---
 
@@ -38,6 +39,7 @@
 
 - La póliza puede descargarse en PDF.
 - Se muestran las coberturas del seguro.
+- El sistema valida que la póliza esté asociada al alumno antes de permitir la descarga.
 
 ---
 
@@ -55,6 +57,7 @@
 
 - La gerencia puede visualizar indicadores.
 - El reporte puede exportarse a PDF y Excel.
+- Criterio adicional sugerido: "El reporte refleja datos actualizados en tiempo real según los depósitos registrados.
 
 ---
 
