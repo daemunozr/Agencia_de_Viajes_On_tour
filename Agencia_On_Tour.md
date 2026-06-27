@@ -144,7 +144,7 @@ El sistema Agencia de Viajes OnTour permite que los apoderados consulten informa
 
 - La gerencia puede visualizar indicadores.
 - El reporte puede exportarse a PDF y Excel.
-- Criterio adicional sugerido: "El reporte refleja datos actualizados en tiempo real según los depósitos registrados.
+- El reporte refleja datos actualizados en tiempo real según los depósitos registrados.
 
 ---
 
