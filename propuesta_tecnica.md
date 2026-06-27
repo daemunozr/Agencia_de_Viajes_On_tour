@@ -12,12 +12,23 @@ El sistema Agencia de Viajes OnTour permite que los apoderados consulten informa
 - Descargar pólizas.
 - Generar reportes para la gerencia.
 
-## Actores
+## Actores y necesidades
 
-- Apoderado
-- Ejecutivo
-- Gerencia
-- Administrador
+| Actor | Necesidad |
+|--------|-----------|
+| Apoderado | Consultar saldo acumulado |
+| Ejecutivo | Administrar contratos |
+| Administrador | Mantener información |
+| Gerencia | Consultar indicadores |
+
+## Funcionalidades
+
+| Funcionalidad | Prioridad |
+|---------------|-----------|
+| Consultar saldo | Alta |
+| Descargar contrato | Alta |
+| Descargar póliza | Alta |
+| Consultar depósitos | Alta |
 
 ## Tecnologías
 
