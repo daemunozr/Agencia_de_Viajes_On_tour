@@ -22,6 +22,8 @@
 - Se listan todos los depósitos registrados.
 - Cada depósito muestra fecha, monto y comprobante.
 - Los depósitos aparecen ordenados por fecha.
+- Envio automatico de correo electronico con el resultado del deposito, tanto al apoderado como al ejecutivo.
+- El correo electrónico enviado debe incluir los datos clave del abono  para asegurar la transparencia financiera inmediata.
 
 ---
 
@@ -41,9 +43,11 @@
 
 ## HU-06 - Administración de Contratos
 
-- El ejecutivo puede cargar contratos.
-- El sistema valida el RUT del apoderado.
-- Se actualiza el estado del contrato.
+- El sistema permite al ejecutivo cargar documentos digitales de contratos. 
+- El sistema valida obligatoriamente que el RUT del apoderado antes de guardar o actualizar el estado del contrato.
+- El ejecutivo puede modificar y actualizar el estado del contrato.
+- El sistema permite al ejecutivo agregar y configurar las pólizas de seguros.
+- El sistema confirma visualmente al ejecutivo y al apoderado cuando el contrato se han guardado exitosamente.
 
 ---
 
@@ -56,6 +60,9 @@
 
 ## HU-08 - Gestión de Usuarios
 
-- El administrador puede crear usuarios.
-- Puede modificar roles.
-- Puede desactivar usuarios.
+- El administrador puede crear, modificar y desactivar cuentas de usuarios, asociándoles un rol.
+- El sistema permite al administrador crear y actualizar los destinos de viaje disponibles.
+- El sistema permite al administrador registrar y modificar los tipos de actividades comunes que los cursos pueden realizar para recaudar fondos.
+- El sistema permite al administrador mantener la información maestra de los clientes que contratan servicios.
+- Al intentar registrar un elemento duplicado, el sistema despliega un mensaje de advertencia y bloquea la duplicidad.
+- El administrador puede visualizar un listado de todos los mantenedores activos con opciones de búsqueda o filtrado básico.
