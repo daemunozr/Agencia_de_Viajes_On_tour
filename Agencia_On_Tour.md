@@ -1,8 +1,39 @@
 # Propuesta Técnica
 
+## Descripción del caso Agencia de Viajes "On Tour"
+
+### ¿Quiénes son?
+
+Agencia con más de 20 años de experiencia en turismo internacional. En los últimos 5 años expandió su oferta hacia giras de estudio para colegios, un segmento en crecimiento por la baja en precios de vuelos y la tendencia de colegios a realizar este tipo de actividades.
+
+### ¿Cómo funciona el proceso hoy?
+
+Un colegio contacta a la agencia, firma un contrato con un ejecutivo de ventas y debe juntar un fondo común entre los apoderados del curso para pagar el paquete turístico. Los aportes se hacen mediante actividades como fiestas y rifas, y los depósitos se envían por correo electrónico a la agencia.
+
+---
+
+### La Problemática
+
+El proceso actual es completamente manual y poco transparente, lo que genera tres grandes problemas:
+
+**Para los apoderados**
+- No tienen copia del contrato ni acceso a las condiciones del viaje
+- No saben cuánto han aportado ni cuánto les falta pagar
+- No conocen los seguros contratados ni los planes de emergencia
+- Deben pedir reuniones o escribir correos solo para obtener información básica
+
+**Para la agencia**
+- No tiene visibilidad clara y oportuna de los depósitos recibidos por curso
+- Pierde oportunidades de negocio porque no puede satisfacer las exigencias de información de los apoderados
+- Le cuesta negociar seguros de forma eficiente con aseguradoras externas
+
+La falta de transparencia y comunicación genera desconfianza en los clientes, lo que impacta directamente en las ventas de la agencia.
+
+---
+
 ## Descripción del proyecto
 
-El sistema Agencia de Viajes OnTour permite que los apoderados consulten información sobre la gira de estudios de sus hijos mediante una plataforma web.
+El sistema Agencia de Viajes OnTour permite a ejecutivos, apoderados, representantes de curso y el dueño de la agencia acceder en cualquier momento a información actualizada sobre contratos, aportes, seguros y estado de avance de cada curso.
 
 ## Objetivos
 
