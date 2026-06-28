@@ -250,3 +250,4 @@ El sistema Agencia de Viajes OnTour permite a ejecutivos, apoderados, representa
 | 5  | Historial de depósitos | No existe un filtro o buscador para los depósitos.                                                  | Permitir buscar o filtrar registros.                    | Solo se muestra la lista completa.               | Baja      | Pendiente |
 | 6  | Dashboard              | Los botones "Descargar contrato PDF" y "Descargar póliza PDF" no muestran confirmación de descarga. | Informar al usuario que la descarga comenzó o finalizó. | No se observa retroalimentación en el prototipo. | Baja      | Pendiente |
 
+git.add
