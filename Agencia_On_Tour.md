@@ -1,18 +1,20 @@
 # Propuesta Técnica
 
+**Autores:**
+
+    * Boris Astudillo
+    * Alex De La Cruz
+    * Jairo Gonzalez
+    * Daniel Muñoz
+    * Dennis Ponce
+
+Fecha: 27 de junio del 2026
+
 ## Descripción del caso Agencia de Viajes "On Tour"
 
-### ¿Quiénes son?
-
-Agencia con más de 20 años de experiencia en turismo internacional. En los últimos 5 años expandió su oferta hacia giras de estudio para colegios, un segmento en crecimiento por la baja en precios de vuelos y la tendencia de colegios a realizar este tipo de actividades.
-
-### ¿Cómo funciona el proceso hoy?
-
-Un colegio contacta a la agencia, firma un contrato con un ejecutivo de ventas y debe juntar un fondo común entre los apoderados del curso para pagar el paquete turístico. Los aportes se hacen mediante actividades como fiestas y rifas, y los depósitos se envían por correo electrónico a la agencia.
+Agencia con más de 20 años de experiencia en turismo internacional. En los últimos 5 años expandió su oferta hacia giras de estudio para colegios, un segmento en crecimiento por la baja en precios de vuelos y la tendencia de colegios a realizar este tipo de actividades. Un colegio contacta a la agencia, firma un contrato con un ejecutivo de ventas y debe juntar un fondo común entre los apoderados del curso para pagar el paquete turístico. Los aportes se hacen mediante actividades como fiestas y rifas, y los depósitos se envían por correo electrónico a la agencia.
 
 ---
-
-### La Problemática
 
 El proceso actual es completamente manual y poco transparente, lo que genera tres grandes problemas:
 
